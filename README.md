@@ -14,11 +14,11 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="FlixsterYouTubeWalkthrough" width=250><br>
 
 ### Notes
 
-Describe any challenges encountered while building the app.
+Challenges encountered while completing this task was just having to repeat the process for implementing the trailer onto the emulator. The process was a little difficult to comprehend at first, until I went through it multiple times.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
